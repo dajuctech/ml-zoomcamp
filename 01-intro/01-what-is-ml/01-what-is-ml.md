@@ -40,3 +40,7 @@ Therefore, new feature values are presented to the model, and it makes **predict
 * [Machine Learning Zoomcamp course](../)
 * [Lesson 1: Introduction to Machine Learning](./)
 * Next: [ML vs Rule-Based Systems](02-ml-vs-rules.md)
+
+## Reference
+
+* [Introduction to Machine Learning](https://danieljude1992.medium.com/introduction-to-machine-learning-b20dbdc583d8) 
